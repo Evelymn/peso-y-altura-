@@ -36,3 +36,29 @@ if(IMC>18.5)
   }
     return 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+su edad en  año es???
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+
+int main(){
+    int edad =25;
+    int dia = edad*365;
+    cout<<"su edad en dias es: "<<dia<< " dias";
+    
+}
